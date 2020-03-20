@@ -21,6 +21,7 @@ At some point, we may wish to update the app. The app is currently available on 
 The materials appearing on the application could include technical, typographical, or photographic errors. Lumina does not warrant that any of the materials on the application are accurate, complete, or current. SAY Studio may make changes to the materials contained on its application at any time without notice. SAY Studio does not, however, make any commitment to update the materials.
 
 **Our privacy policy**
+
 Our Privacy Policy is located at https://github.com/vsay01/Covid19LabUS/blob/master/pirvacy_policy.md. Our Privacy Policy describes how we collect, use, and share your personal information. By accepting these Terms you also agree to our Privacy Policy.
 
 **Changes to This Terms and Conditions**
