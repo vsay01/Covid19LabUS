@@ -1,6 +1,6 @@
-## COVID19LabUS Android Mobile Application Privacy Policy
+## COVID 19 Lab U.S. Android Mobile Application Privacy Policy
 
-SAY Studio built the Covid19LabUS application as a Free application. This SERVICE is provided by SAY Studio at no cost and is intended for use as is.
+SAY Studio built the Covid 19 Lab U.S. application as a Free application. This SERVICE is provided by SAY Studio at no cost and is intended for use as is.
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 ### Information Collection and Use
@@ -38,7 +38,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 ### Android System Permissions
 
 - The Service requires the INTERNET permission in order to pull data on the Firestore Cloud Storage for dog breeds information and asset.
-- The Service requires the ACCESS_FINE_LOCATION permission in order to capture your location so that we can provide you the results of the Covid lab test in that location.
+- The Service requires the ACCESS_FINE_LOCATION permission in order to capture your location so that we can provide you the results of the Covid 19 lab test in that location.
 
 ### Disclaimer
 
